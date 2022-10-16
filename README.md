@@ -12,3 +12,4 @@
 |[FastAPI Structure](https://camillovisini.com/article/abstracting-fastapi-services/)|[link(TBD)](/VIS2021/conceptExtract.md)|
 |[JSONPlaceHolder](https://jsonplaceholder.typicode.com/)|[link(TBD)](/VIS2021/conceptExtract.md)|
 |[SQLAlchemy Basic Relationship Patterns](https://docs.sqlalchemy.org/en/14/orm/basic_relationships.html)|[link(TBD)](/VIS2021/conceptExtract.md)|
+|가장 빠른 머신러닝 앱 배포하기 fastapi, gunicorn, nginx|https://roseline.oopy.io/dev/gunicorn-nginx-fastapi-deploy-on-lightsail|
