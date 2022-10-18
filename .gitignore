@@ -25,3 +25,5 @@ sql_app.db
 # vim temporary files
 *~
 .*.sw?
+
+.env
